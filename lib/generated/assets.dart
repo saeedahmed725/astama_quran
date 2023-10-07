@@ -11,12 +11,6 @@ class Assets {
   static const String reciter4 = 'assets/images/reciter/4.jpg';
   static const String reciter5 = 'assets/images/reciter/5.jpg';
   static const String reciter6 = 'assets/images/reciter/6.jpg';
-  static const String screenshots1 dark = 'assets/screenshots/1 dark.jpg';
-  static const String screenshots1 light = 'assets/screenshots/1 light.jpg';
-  static const String screenshots2 dark = 'assets/screenshots/2 dark.jpg';
-  static const String screenshots2 light = 'assets/screenshots/2 light.jpg';
-  static const String screenshots3 dark = 'assets/screenshots/3 dark.jpg';
-  static const String screenshots3 light = 'assets/screenshots/3 light.jpg';
   static const String splashSplash = 'assets/images/splash/splash.png';
   static const String svgArrowBack = 'assets/images/author/svg/arrow_back.svg';
   static const String svgDrawerIcon = 'assets/images/home/svg/drawer_icon.svg';
