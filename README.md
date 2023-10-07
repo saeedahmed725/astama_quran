@@ -11,9 +11,9 @@
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20dark.jpg?raw=true" height=480></td>
-    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20dark.jpg?raw=true" height=480></td>
-    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20dark.jpg?raw=true" height=480></td>
+    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20dark.jpg?raw=true" height=720></td>
+    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20dark.jpg?raw=true" height=720></td>
+    <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20dark.jpg?raw=true" height=720></td>
   </tr>
  </table>
 
