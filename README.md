@@ -5,7 +5,9 @@
 <h1 align="left">📱Screenshots</h1>
 
 <h3 align="left">Dark Mode🌙</h3>
+
 ###
+
 <table>
   <tr>
     <td>Home Screen</td>
@@ -22,6 +24,7 @@
 <p align="left">Light Mode ☀️</p>
 
 ###
+
 <table>
   <tr>
     <td>Home Screen</td>
