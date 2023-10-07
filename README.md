@@ -4,7 +4,7 @@
 
 <h1 align="left">📱Screenshots</h1>
 
-<h3 align="left">Dark Mode🌙</h3>
+<h3 align="left">Dark Mode 🌙</h3>
 
 ###
 
