@@ -10,21 +10,15 @@
 
 ###
 <tr>
-<div align="center">
   <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20dark.jpg?raw=true"  />
-</div>
 
 ###
 
-<div align="center">
   <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20dark.jpg?raw=true"  />
-</div>
 
 ###
 
-<div align="center">
   <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20dark.jpg?raw=true"  />
-</div>
 
 ###
 </tr>
@@ -34,21 +28,15 @@
 
 ###
 
-<div align="center">
   <img  height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20light.jpg?raw=true"  />
-</div>
 
 ###
 
-<div align="center">
   <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20light.jpg?raw=true"  />
-</div>
 
 ###
 
-<div align="center">
   <img height="278" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20light.jpg?raw=true"  />
-</div>
 </tr>
 
 ###
