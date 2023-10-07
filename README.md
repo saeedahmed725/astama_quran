@@ -33,13 +33,13 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20light.jpg?raw=true"  />
+  <img  src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20light.jpg?raw=true"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20light.jpg?raw=true"  />
+  <img  src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20light.jpg?raw=true"  />
 </div>
 
 ###
@@ -53,8 +53,9 @@
 <h2 align="left">Tech Stack</h2>
 
 - Flutter
-- GetX State Management
-- Supabase
-- Firebase Auth (Google Sign In)
+- Bloc State Management
+- Clean Architecture
+- Api Services 
 - Figma
-- Git (VCS)
+- Git
+- Android Studio
