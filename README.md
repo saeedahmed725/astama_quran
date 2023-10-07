@@ -21,7 +21,7 @@
   </tr>
  </table>
 
-<p align="left">Light Mode ☀️</p>
+<h3 align="left">Light Mode ☀️</h3>
 
 ###
 
