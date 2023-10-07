@@ -1,16 +1,60 @@
-# astama
+<h1 align="left">Listening To Quran Applications :</h1>
 
-A new Flutter project.
+###
 
-## Getting Started
+<h1 align="left">📱Screenshots</h1>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="left">Dark Mode🌙</h3>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20dark.jpg?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20dark.jpg?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20dark.jpg?raw=true"  />
+</div>
+
+###
+
+<p align="left">Light Mode ☀️</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20light.jpg?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/2%20light.jpg?raw=true"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="278" src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/3%20light.jpg?raw=true"  />
+</div>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+- Flutter
+- GetX State Management
+- Supabase
+- Firebase Auth (Google Sign In)
+- Figma
+- Git (VCS)
