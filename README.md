@@ -27,6 +27,8 @@
 </div>
 
 ###
+</tr>
+<tr>
 
 <p align="left">Light Mode ☀️</p>
 
