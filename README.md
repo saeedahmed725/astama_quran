@@ -8,9 +8,9 @@
 ###
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Home Screen</td>
+     <td>Shikh Screen</td>
+     <td>Player Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20dark.jpg?raw=true" height=720></td>
@@ -24,9 +24,9 @@
 ###
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Home Screen</td>
+     <td>Shikh Screen</td>
+     <td>Player Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/saeedahmed725/astama_quran/blob/main/assets/screenshots/1%20light.jpg?raw=true" height=720></td>
