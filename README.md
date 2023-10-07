@@ -1,4 +1,4 @@
-<h1 align="left">Listening To Quran Applications :</h1>
+<h1 align="left">Listening To Quran Applications: </h1>
 
 ###
 
